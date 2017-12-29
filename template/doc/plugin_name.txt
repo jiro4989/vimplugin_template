@@ -1,0 +1,10 @@
+*$PLUGIN_NAME.txt* Vim plugin for description.
+
+Mappings:
+KEY
+    description
+
+
+Commands:
+:$COMMAND_NAME
+    description
